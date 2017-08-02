@@ -1,0 +1,22 @@
+{
+  "name": "polymer-font-awesome",
+  "version": "1.0.0",
+  "description": "FontAwesome Wrapper to be used in Polymer components.",
+  "scripts": {
+    "build": "gulp"
+  },
+  "author": "Sören Oldag <soeren_oldag@freenet.de>",
+  "license": "(OFL-1.1 AND MIT)",
+  "dependencies": {
+    "font-awesome": "^4.7.0"
+  },
+  "devDependencies": {
+    "css": "^2.2.1",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-modify-file": "^0.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-style-modules": "^0.1.0",
+    "run-sequence": "^2.1.0"
+  }
+}
